@@ -1,7 +1,7 @@
 package com.in28minutes.microservices.camelmicroservicea;
 
 import java.math.BigDecimal;
-
+//just for testing purpose
 public class CurrencyExchange {
 	private Long id;
 	private String from;
